@@ -28,7 +28,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     "import/no-unresolved": "off",
     "react/state-in-constructor": "off",
-    'no-param-reassing': 'off',
+    'no-param-reassign': 'off',
     'no-console': ["error", { allow: ["tron"]}]
   }
 };
